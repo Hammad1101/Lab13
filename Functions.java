@@ -51,6 +51,6 @@ public class Functions {
 		}
 		System.out.println("Factorial of num"+n+ "is :" + factorial);
 	}
-	
+	//This is Function
 
 }
